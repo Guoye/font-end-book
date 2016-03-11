@@ -7,8 +7,7 @@
 > 主要内容是一些使用过的库、工具、套路或关注的前端组织等等，反正用 **前端瑞士军刀** 来总结这篇文章再合适不过鸟。
 
 #### 您可以通过以下方式联系到我：
-- 个人 Blog [ccydesign.com](http://www.ccydesign.com/ "一枚 Web 技术领域的手艺人")
-- 博客园 [犀利的东哥](http://www.cnblogs.com/Darren_code/ "关注前端技术")
+- 个人 Blog 圆点网 [ccydesign.com](http://www.ccydesign.com/ "一枚 Web 技术领域的手艺人")
 
 ---
 
